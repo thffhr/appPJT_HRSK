@@ -53,14 +53,14 @@ python manage.py runserver 8080
 
 * 로그인
 
-![KakaoTalk_20201125_114352987](images/KakaoTalk_20201125_114352987.gif){: width="50%"}
+![KakaoTalk_20201125_114352987](images/KakaoTalk_20201125_114352987.gif)
 
 
 * 회원가입
 
-![KakaoTalk_20201125_114352987_01](images/KakaoTalk_20201125_114352987_01.jpg)
-![KakaoTalk_20201125_114352987_02](images/KakaoTalk_20201125_114352987_02.jpg)
-![KakaoTalk_20201125_114352987_03](images/KakaoTalk_20201125_114352987_03.jpg)
+![KakaoTalk_20201125_114352987_01](images/KakaoTalk_20201125_114352987_01.jpg){: width="50%"}
+![KakaoTalk_20201125_114352987_02](images/KakaoTalk_20201125_114352987_02.jpg){: width="50%"}
+![KakaoTalk_20201125_114352987_03](images/KakaoTalk_20201125_114352987_03.jpg){: width="50%"}
 
 
 * 내정보
