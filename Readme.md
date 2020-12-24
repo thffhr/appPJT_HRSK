@@ -17,7 +17,7 @@
 </p>
 
 <h3 align=center>
-배포중인 어플
+배포중인 어플 
   <a href="https://drive.google.com/file/d/1N3IzRW76bwCpz-Kd8p0N_UpKVS93eFC9/view?usp=sharing">download</a> 
 </h3><br/>
 
